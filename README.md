@@ -3,7 +3,7 @@
 <div>
 	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://annisyarianta.github.io" target="_blank">Annisya Rianta!</a>
 	&nbsp 
-	<img src="https://github.com/annisyarianta/annisyarianta/assets/GIF/wavehand.gif" width="30px"/></h2>
+	<img src="https://github.com/annisyarianta/annisyarianta/tree/master/assets/GIF/wavehand.gif" width="30px"/></h2>
 </div>
 
 <div>
