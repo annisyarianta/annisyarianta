@@ -1,9 +1,9 @@
 <!-- Annisya Rianta - README Profiles -->
 
 <div>
-	<h2>&nbsp &nbspHi, I am <a href="https://annisyarianta.github.io" target="_blank">Annisya Rianta!</a>
+	<h1>&nbsp &nbspHi, I am <a href="https://annisyarianta.github.io" target="_blank">Annisya Rianta!</a>
 	&nbsp 
-	<img src="https://github.com/annisyarianta/annisyarianta/blob/master/assets/GIF/wavehand.gif" width="40px"/></h2>
+	<img src="https://github.com/annisyarianta/annisyarianta/blob/master/assets/GIF/wavehand.gif" width="40px"/></h1>
 </div>
 
 <div>
