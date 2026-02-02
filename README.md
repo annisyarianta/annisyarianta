@@ -17,7 +17,6 @@
 
 ## 📖 About me :
 
--   A third year Informatics Engineering Undergraduate Student at University of Lampung.
 -   Interested in Front-End Web Development, UI/UX, and Software Engineering.
 
 <br/>
