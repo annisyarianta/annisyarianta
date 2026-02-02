@@ -25,9 +25,9 @@
 ## 🌐 Get in touch with me!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://annisyarianta.github.io" target="_blank"><img align="center" width="23px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" width="23px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/annisyarianta/" target="_blank"><img align="center" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ichariantaa" target="_blank"><img align="center" alt="Aakarsh B | Instagram" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="" target="_blank"><img align="center" alt="Aakarsh B | Instagram" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 
 
 
@@ -67,7 +67,7 @@
 		<img src="https://github.com/annisyarianta/annisyarianta/blob/master/assets/Icons/LinkedIn.png" alt="LinkedIn"/>
 	</a>
 	&nbsp &nbsp &nbsp
-	<a href="https://www.instagram.com/ichariantaa/" target="_blank" style="margin: 0 auto">
+	<a href="" target="_blank" style="margin: 0 auto">
 		<img src="https://github.com/annisyarianta/annisyarianta/blob/master/assets/Icons/Instagram.png" alt="Instagram"/>
 	</a>
 	&nbsp &nbsp &nbsp
